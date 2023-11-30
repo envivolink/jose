@@ -34,7 +34,7 @@
         "beberlei/assert": "^2.4",
         "symfony/polyfill-mbstring": "^1.1",
         "fgrosse/phpasn1": "^2.0",
-        "mdanter/ecc": "0.5.*",
+        "mdanter/ecc": "^1.0",
         "psr/cache": "^1.0"
     },
     "require-dev": {
